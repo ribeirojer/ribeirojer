@@ -1,6 +1,7 @@
-- 👋 Olá! Bem-vindo, meu nome é José Eduardo Ribeiro, tenho 28 anos, sou natural de São José dos Campos - SP.
-- 🌱 Bacharel em Ciência e Tecnologia pela UNIFESP e atualmente cursando Engenharia de Produção e Sistemas na Udesc.
-- 👀 Gosto de filosofia e psicologia especialmente teoria de tomada de decisão.
+- 👋 Olá! Tudo bem? meu nome é José Eduardo Ribeiro, tenho 28 anos, sou natural de São José dos Campos - SP.
+- 🌱 Bacharel em Ciência e Tecnologia pela UNIFESP.
+- 👀 Gosto de filosofia e psicologia.
+- 📚 atualmente estou lendo Questões Disputadas Sobre a Alma, de São Tomas de Aquino e Codigo Limpo, de Robert C. Martin.
 - 💞️ Estou focado em ser um excelente desenvolvedor de software, o ano de 2022 me esforcei bastante em aprender o front-end e no ano de 2023 estou focando na parte de back-end.
 - 📫 Você pode me encontrar no Instagram @eduardojer7 ou no Linkedin.
 <div align="center">
