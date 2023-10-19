@@ -1,11 +1,11 @@
 - ## Olá! 👋
 
-Meu nome é José Eduardo Ribeiro, tenho 28 anos e sou natural de São José dos Campos - SP.
+Meu nome é José Eduardo Ribeiro, tenho 29 anos e sou natural de São José dos Campos - SP.
 
 ### Sobre mim
 - 🌱 Sou Bacharel em Ciência e Tecnologia pela Universidade Federal de São Paulo.
 - 👀 Tenho interesse em filosofia, especialmente em epistemologia, e psicologia, com foco na cognitiva.
-- 📚 Atualmente estou lendo "Questões Disputadas Sobre a Alma", de São Tomás de Aquino, e "Código Limpo", de Robert C. Martin.
+- 📚 Atualmente estou lendo "O Grande Conflito" de Ellen G. White.
 
 ### Objetivos
 - 💞️ Meu foco principal é me tornar um desenvolvedor de software excelente. Em 2022, dediquei-me bastante ao aprendizado de front-end e, em 2023, estou direcionando meus esforços para a área de back-end.
