@@ -1,11 +1,11 @@
 - ## Olá! 👋
 
-Meu nome é José Eduardo Ribeiro, tenho 29 anos e sou natural de São José dos Campos - SP.
+Meu nome é José Eduardo Ribeiro, tenho 31 anos e atualmente moro em Joinville - SC.
 
 ### Sobre mim
 - 🌱 Sou Bacharel em Ciência e Tecnologia pela Universidade Federal de São Paulo.
 - 👀 Tenho interesse em filosofia, especialmente em epistemologia, e psicologia, com foco na cognitiva.
-- 📚 Atualmente estou lendo "Domain-Driven Design" de Eric Evans.
+- 📚 Atualmente estou lendo "A geração ansiosa" de Jonathan Haidt.
 
 ### Entre em contato
 - 📫 Você pode me encontrar no Instagram ou no LinkedIn.
